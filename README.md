@@ -1,5 +1,6 @@
 # Geolocalization-based-Social-Network
 Social network for real-time exchanging of goods and knowledge in Berlin. Developed using PHP and MySQL on Codeigniter Framework (MVC).  jQuery, AJAX, Javascript, HTML and CSS
+
 WHAT?
 This is a local request solution network based on a list of macrocategories (that people may integrate). You choose your request among them, set a deadline and spread your “whistle” within the map.
 Your “Whistle” will reach the best Helper among the available ones, ready to help you.
