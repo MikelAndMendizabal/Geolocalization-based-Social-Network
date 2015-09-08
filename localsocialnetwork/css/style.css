@@ -1,0 +1,246 @@
+body#front
+{
+    background: url(http://www.whoistlers.com/images/peoplebackground.jpg) no-repeat center center fixed #000; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	
+     font-size: 30px;
+
+}
+
+ body#map
+{
+     background: url(http://www.whoistlers.com/images/berlin_2.jpg) no-repeat center center fixed #000; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     font-size: 30px;
+
+}
+
+#logo_header {
+    height: 73px;
+    width: 100%;
+	padding-bottom: 10px;
+	
+}
+
+#name
+{
+     margin-left: 415px;
+     padding-top: 50px;
+	 position:absolute;
+	
+}
+img {
+    margin-left: 300px;
+	margin-right: -50px;
+    float: left;
+	border: 0 none;
+    position: relative;
+	height: 170px;
+	width: 170px;
+}
+a#info
+ {
+    
+	height: 15px;
+	width: 15px;
+    color: #FFFFFF;
+    font-size: 15px;
+    text-decoration: none;
+
+ }
+#main
+{
+ color: #FFFFFF;
+ margin-top: 200px;
+ background: none repeat scroll 0 0 rgba(50,50,50, 0.8);
+ padding: 2px;
+ display: block;
+ 
+}
+
+
+#errors
+{
+color: #FFEE22;
+font-size: 20px;
+}
+
+#success
+{
+    background: none repeat scroll 0 0 rgba(80,80,80, 0.8);
+    text-align:center;
+	margin-top:10%;
+	margin-bottom:0;
+	font-family: 'Fauna One', serif;
+    color: #FFFFFF;
+}
+
+#input_block input[type=submit] {
+     background:#79C32F;
+	border-radius: 2px 2px 2px 2px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    height: 39px;
+    line-height: 35px;
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.5);
+    text-transform: uppercase; 
+    width: 45px;
+	
+	}
+
+p
+{
+margin-top: 70px;
+padding-left:450px; 
+}
+ #input_block
+ {
+margin-left:400px;
+font-size: 18px; 
+margin-bottom:10px;
+}
+
+#register a
+{
+    padding: 5px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left:600px;
+    background:#79C32F;
+	border-radius: 2px 2px 2px 2px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.5);
+}
+
+#register a:hover{
+    background-color: #79C32F;
+}
+
+ 
+ h1
+ {
+    font-family: 'Fauna One', serif;
+    font-size: 60px;
+	
+ }
+ 
+ h2
+ {
+    font-family: 'Fauna One', serif;
+    font-size: 35px;
+	text-align: center;
+	
+ }
+ 
+ #geolocation {
+    background: none repeat scroll 0 0 rgba(80, 80, 80, 0.8);
+    border-radius: 10px 10px 10px 10px;
+    color: #FFFFFF;
+    font-family: 'Fauna One',serif;
+    font-size: 0.5em;
+    margin: 1em;
+    padding: 1em;
+    quotes: left;
+    width: 40%;
+	float:left;
+}
+
+ #geolocation input[type="submit"]
+ {
+    background:#79C32F;
+	border-radius: 10px 10px 10px 10px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase; 
+	height: 39px;
+	margin-left:30%;
+ 
+ }
+ 
+#tabs ul
+{
+background:#FFFFFF;
+border: none;
+}
+ 
+ #map
+ {
+ //width:75%;
+ border-radius: 10px 10px 10px 10px;
+ padding:2px;
+ //background: none repeat scroll 0 0 rgba(80,80,80, 0.8);
+ //margin-left:10%;
+ color:black;
+ 
+ }
+ 
+ #main_nav a, ul, li
+ {
+ list-style-type: none;
+ text-decoration: none;
+ }
+ 
+ 
+ #main_nav a:hover{
+    background-color: #79C32F;
+}
+
+ 
+ a#menu_whistle, a#messages, a#user, a#logout
+ {
+ background: none repeat scroll 0 0 rgba(80, 80, 80, 0.8);
+ color: #FFFFFF;
+ padding: 0.3em;
+ float: right;
+ margin: 0.3em;
+ }
+ 
+ a#home
+ {
+ background: none repeat scroll 0 0 rgba(80, 80, 80, 0.8);
+ color: #FFFFFF;
+ padding: 0.3em;
+ float: left;
+ }
+ 
+ #header
+ {
+ border-bottom:1px solid;
+ width:100%;
+ clear:both;
+ float:left;
+ }
+ 
+ div.ui-datepicker{
+ font-size:0.5em;
+}
+
+#user_profile
+{
+background: none repeat scroll 0 0 rgba(255, 255, 255, 0.8);
+float:left;
+width:30%;
+margin:0.5em;
+padding:0.2em;
+}
+
+#message_box, #starred_receptors, #user_points
+{
+background: none repeat scroll 0 0 rgba(255, 255, 255, 0.8);
+float:left;
+width:15%;
+margin:0.5em;
+padding:0.2em;
+}
+
+
